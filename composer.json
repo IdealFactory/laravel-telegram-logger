@@ -1,5 +1,5 @@
 {
-  "name": "tumichnix/laravel-telegram-logger",
+  "name": "idealfactory/laravel-telegram-logger",
   "description": "A Laravel package for logging via telegram bot",
   "keywords": [
     "laravel",
